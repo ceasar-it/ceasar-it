@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ceasar, an <a href="https://www.linkedin.com/in/kyleleblanc-">IT Professional
+<h1>Hi, I'm Caesar, an <a href="https://www.linkedin.com/in/kyleleblanc-">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
